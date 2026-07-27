@@ -1,0 +1,16 @@
+
+---
+
+## 📄 **4. requirements.txt**
+
+```txt
+aiogram==3.4.1
+asyncpg==0.29.0
+python-dotenv==1.0.1
+sentence-transformers==2.3.1
+scikit-learn==1.4.2
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+redis==5.0.3
+celery==5.4.0
+numpy==1.26.4
